@@ -13,3 +13,7 @@ College enrollment is also a large analyser when comparing school systems and su
 
 ## Enrollment in schools by Race/Ethnicity 
 Comparing the difference between race/ethnicity enrolled between grade levels from prekindergarden through twelvth grade through out multiple years 1999 to 2017.
+
+## Graduation Rate Comparison by Race/Ethnicity and Other Situation
+Graduation rate data is used to compare the graduation rate by ethnicity and the with visualization, it is noted that American Indian/Alaska Native, Hispanic, Black had lower rate than Average of US while Asian, White had higher graudation rates in most of the states. 
+Also, Economic disadvantages, Limited English proficiency, Disability seem to affect students' graduation rate.
