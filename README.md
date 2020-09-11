@@ -10,3 +10,4 @@ By finding average scores on the international scale, it is easier to see the bi
 ## High School Drop Out Rates
 
 ## Enrollment in schools by Race/Ethnicity 
+Comparing the difference between race/ethnicity enrolled between grade levels from prekindergarden threw twelvth grade threw out multiple years 1999 to 2017.
